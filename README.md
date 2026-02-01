@@ -29,7 +29,20 @@ SMTP_USER=your_email@gmail.com #Your email
 SMTP_PASSWORD=your_app_specific_password #Done through Google
 SMTP_HOST=smtp.gmail.com #Don't touch it if you use Google
 SMTP_PORT=587
-RECEIVER_EMAIL=developer@example.com #Where will the questions come from```
+RECEIVER_EMAIL=developer@example.com #Where will the questions come from
+```
 
+### 4. Add Images:
+Place your images (for example, arrow.png, support.png, donate.png) in the media/ folder.
 
+### 5. Launch the bot:
+```.venv\Scripts\activate```  
+```python run.py```
+
+## Subscribe to my Telegram channel, where you can follow the project's development:  
+Aegis: https://t.me/aegis_k  
+
+## Links
+* Aiogram documentation: https://docs.aiogram.dev/  
+* API Telegram-бота: https://core.telegram.org/bots/api
 
