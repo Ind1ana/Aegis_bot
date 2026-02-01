@@ -1,5 +1,6 @@
 # Aegis_bot
 Telegram bot for the Aegis project, created using the aiogram library. The main function of the bot is to provide a convenient communication channel between users and developers, as well as the opportunity to support the project.
+![Alt text](media/github.png)
 
 ## Preliminary requirements:
 
