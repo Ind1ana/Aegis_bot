@@ -25,7 +25,7 @@ Open the .env file and fill it with your data:
 ```
 BOT_TOKEN=your_telegram_bot_token_here #Your token
 
-SMTP_USER=your_email@gmail.com #Your e,ail
+SMTP_USER=your_email@gmail.com #Your email
 SMTP_PASSWORD=your_app_specific_password #Done through Google
 SMTP_HOST=smtp.gmail.com #Don't touch it if you use Google
 SMTP_PORT=587
